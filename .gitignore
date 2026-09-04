@@ -1,0 +1,5 @@
+.env
+msmtpd.env
+db/
+librenms/
+redis/
